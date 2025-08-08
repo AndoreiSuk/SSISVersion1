@@ -1,7 +1,8 @@
 ID,NAME
-CEBA ,COLLEGE OF ECONOMICS AND BUSINESS ACCOUNTANCY
-CASS,COLLEGE OF ARTS AND SOCIAL SCIENCES
-CSM ,COLLEGE OF SCIENCE AND MATHEMATICS
-CED,COLLEGE OF EDUCATION
-COE,COLLEGE OF ENGINEERING
-CHS,COLLEGE OF HEALTH SCIENCES
+CCS,College of Computer Sciences
+CEBA,College of Economics Business and Accountancy
+CED,College of Education
+CHS,College of Health Sciences
+COE,College of Engineering
+CSM,College of Science and Mathematics
+COF,College of Finance
