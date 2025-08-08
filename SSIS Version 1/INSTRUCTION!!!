@@ -1,0 +1,27 @@
+IG MAGPACHECK MO KANG SIR MALIK MAO NIY IYA BUHATON PARA NIMO:
+
+1. Create 7 Colleges
+2. Create 20 Programs from 7 different Colleges
+3. Create 100 Students from 20 different Programs
+
+# CHECKING
+1. Go to College 
+2. Create a new College code despite there's an existing one, when the app catches an error that says "this code exists!!" then it is correct.
+3. Edit an existing College code, when it's done make sure the edited College code affects the Programs under it.
+4. Delete an existing College code, when it's done make sure the Programs under it will set as NULL or displayed as "N/A" or not assigned to any specific college.
+5. Create new College code with the College name.
+6. Go to Programs
+7. Create a new Program code despite there's an existing one, when the app catches an error that says "this code exists!!" then it is correct.
+8. Edit an existing Program code, when it's done make sure the edited Program code affects the Students under it.
+9. Delete an existing Program code, when it's done make sure the Students under it will set as NULL or displayed as "NOT ENROLLED".
+10. Create new Program code with the Program name.
+11. Go to Students
+12. Create a new Student ID despite there's an existing one, when the app catches an error that says "this Student ID exists!!" then it is correct.
+13. Create a new Student ID that has no dash "20212028" when the app catches an error that says "Invalid format, must be YYYY-NNNN" then it is correct.
+14. Edit an existing Student ID along with it's all existing values
+15. Delete the Student
+
+
+HONORABLE MENTIONS:
+1. Search Tab 
+2. Sort Functionality
